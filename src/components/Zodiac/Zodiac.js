@@ -1,10 +1,9 @@
 import React from 'react'
 import classes from './Zodiac.module.css'
 
-function Zodiac() {
+export default function Zodiac(props) {
     return (
         
     )
 }
 
-export default Zodiac
