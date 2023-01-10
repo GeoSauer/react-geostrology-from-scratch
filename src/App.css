@@ -7,9 +7,7 @@ body {
   --color4: #a379c9;
   --color5: #b744b8;
   --header-height: 60px;
+  --footer-height: 60px;
   font-family: 'Bakbak One';
-}
-
-body {
   background-color: var(--color4);
 }

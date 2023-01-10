@@ -1,10 +1,8 @@
-import React from 'react'
-import './Footer.css'
+import React from 'react';
+import './Footer.css';
 
 function Footer() {
-    return (
-        
-    )
+  return <footer>Copyright Geo Sauer 2023</footer>;
 }
 
-export default Footer
+export default Footer;
