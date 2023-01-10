@@ -12,11 +12,4 @@ export default function Main() {
       ))}
     </main>
   );
-
-  //   return (
-  //   <main style={{ backgroundImage: `url(${background})` }}>
-  //     {zodiacs.map((zodiac) => (
-  //       <Zodiac key={zodiac.id} {...zodiac} />))}
-  //       </main>
-  //   );
 }
