@@ -1,9 +1,9 @@
 main {
+  align-content: flex-start;
+  background-size: cover;
   display: flex;
   flex-wrap: wrap;
+  height: 100vh;
   margin-bottom: 40px;
-  background-size: cover;
-  height: 640px;
-  align-content: flex-start;
   position: relative;
 }

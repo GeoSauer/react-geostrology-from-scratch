@@ -1,12 +1,13 @@
 footer {
-  color: var(--color5);
-  height: 60px;
-  background-color: var(--color3);
-  display: flex;
   align-items: center;
-  justify-content: flex-end;
-  position: fixed;
-  width: 100%;
+  background-color: var(--color3);
   bottom: 0;
+  color: var(--color5);
+  display: flex;
+  font-size: 1.2em;
+  height: 60px;
+  justify-content: center;
+  position: fixed;
   text-transform: uppercase;
+  width: 100%;
 }
