@@ -16,16 +16,19 @@
 
 .zodiac:hover {
   backdrop-filter: blur(4px);
+  transition: all 0.15s linear;
 }
 
 .name {
   color: var(--color3);
   font-size: 0.9em;
+  cursor: default;
 }
 
 .dates {
   color: var(--color2);
   font-size: 1em;
+  cursor: default;
 }
 
 .image {

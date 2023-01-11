@@ -3,6 +3,7 @@ footer {
   background-color: var(--color3);
   bottom: 0;
   color: var(--color5);
+  cursor: default;
   display: flex;
   font-size: 1.2em;
   height: 60px;
