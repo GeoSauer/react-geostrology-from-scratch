@@ -9,8 +9,8 @@
   margin: 20px;
   padding: 5px;
   text-align: center;
-  width: 10vw;
-  height: 10vw;
+  width: 12vw;
+  height: 15vw;
   filter: drop-shadow(0px 5px 47px rgba(14, 14, 14, 0.78));
 }
 
@@ -34,4 +34,5 @@
 .image {
   width: 7vw;
   height: 7vw;
+  padding-bottom: 5px;
 }
